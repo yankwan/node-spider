@@ -1,6 +1,8 @@
 # node-spider
 
-基于nodejs的一个简单爬虫，爬取豆瓣电影分类下的电影列表
+基于nodejs的一个简单爬虫，爬取豆瓣电影分类下的电影列表，本例爬取的是[动画](https://movie.douban.com/tag/%E5%8A%A8%E7%94%BB?start=0&type=T)分类下的电影列表
+
+可以根据需要在配置文件中替换爬取的分类信息，豆瓣分类信息: https://movie.douban.com/tag/
 
 #### 使用
 
