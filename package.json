@@ -1,0 +1,16 @@
+{
+  "name": "node-spider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "spider.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "YJ.Liu",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.2",
+    "cheerio": "^0.22.0",
+    "superagent": "^3.0.0"
+  }
+}
